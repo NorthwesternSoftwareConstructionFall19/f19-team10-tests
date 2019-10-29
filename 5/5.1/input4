@@ -1,5 +1,5 @@
 ["register"]
-["receive-stones", "B"]
+["receive-stones", "W"]
 
 ["make-a-move",
 [[["W", " ", "B", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " ", " "],
